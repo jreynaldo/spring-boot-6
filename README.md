@@ -1,5 +1,5 @@
 # spring-boot-6
-```markdown
+
 # Módulo de Seguridad Backend
 
 ## 1. Autenticación
@@ -71,4 +71,3 @@
 - **Gestión de Secretos**: Almacenamiento seguro de claves API, contraseñas y otros secretos (uso de servicios como HashiCorp Vault, AWS Secrets Manager).
 
 Este módulo de seguridad debe estar bien integrado en el ciclo de vida del desarrollo de software, garantizando que la seguridad se considere desde la fase de diseño hasta el despliegue y mantenimiento.
-```
